@@ -1,0 +1,33 @@
+button{
+	background-color: #00A4CD;
+}
+.botao{
+	text-align: center;
+	color: blue;
+	padding: 20px;
+	margin: 20px;
+}
+.caixa{
+	border: solid black 1px;
+	padding: 10px;
+	margin: 10px;
+	width: 900px;
+	text-align: center;
+}
+.img{
+	padding: 20px;
+	margin: 5px;
+}
+.logo{
+	text-align: left;
+}
+.cadastro_fun{
+	background-color: #DCDCDC;
+	text-align: center;
+	width: 400px;
+	padding: 20px;
+	margin: 20px;
+}
+.rodape{	
+	margin-top: 300px;
+}
